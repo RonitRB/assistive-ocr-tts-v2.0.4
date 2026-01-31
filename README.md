@@ -71,19 +71,8 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ## 📐 System Architecture
 
-Camera
-   ↓
-Jetson Orin Nano
-   ↓
-Image Preprocessing
-   ↓
-OCR (Handwritten + Digital Text)
-   ↓
-Text Processing
-   ↓
-Text-to-Speech
-   ↓
-Bluetooth Audio Output
+<img width="1001" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6a0b36e-7f20-4bf5-873b-cd703fdf536a" />
+
 
 ---
 

@@ -78,52 +78,72 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ## 🚀 Installation & Setup (Basic)
 
-```bash
-git clone https://github.com/RonitRB/assistive-ocr-tts-v2.0.4.git
-cd assistive-ocr-tts-v2.0.4
-pip install -r requirements.txt
-python main.py
+To install and run the project, follow these steps:
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/RonitRB/assistive-ocr-tts-v2.0.4.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd assistive-ocr-tts-v2.0.4
+    ```
+3.  Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  Run the main script:
+    ```bash
+    python main.py
+    ```
 
 ---
 
-⚠️ Note: Ensure the camera and Bluetooth audio device are properly connected and configured.
+⚠️ **Note:** Ensure the camera and Bluetooth audio device are properly connected and configured.
 
-🧪 Current Status
+🧪 **Current Status**
+
 - ✅ OCR-to-TTS pipeline implemented
 - ✅ Digital text detection working
 - 🚧 Handwritten board text optimization ongoing
 - 🚧 Final hardware integration in progress
 - 🚧 Classroom testing phase ongoing
 
-📅 Project Timeline
+📅 **Project Timeline**
+
 - Development Phase: Completed
 - Final Testing & Hardware Integration: Ongoing
 - Invention Disclosure Submission: 15th February 2026
 
-📜 Intellectual Property
+📜 **Intellectual Property**
+
 This project is part of **NAIN 2.0** (New Age Incubation Network), a Government of Karnataka-funded initiative.
 
 Patent filing and IP protection are planned prior to public dissemination.
 
-👥 Team
+👥 **Team**
+
 - Ronit Bongale (GitHub: [RonitRB](https://github.com/RonitRB), LinkedIn: [Ronit Bongale](https://www.linkedin.com/in/ronit-bongale/))
 - Krishna Pawar (GitHub: [krishnapawar05](https://github.com/krishnapawar05), LinkedIn: [Krishna Pawar](https://www.linkedin.com/in/krishnapawar05/))
 - Shakuntala Saunshi (GitHub: [Shakuntalas](https://github.com/Shakuntalas), LinkedIn: [Shakuntala Saunshi](https://www.linkedin.com/in/shakuntala-saunshi/))
 
-🤝 Acknowledgements
+🤝 **Acknowledgements**
+
 - Government of Karnataka – NAIN 2.0
 - Department of Computer Science & Engineering
 - Project mentors and faculty advisors
 - Open-source software contributors
 
-🔮 Future Enhancements
+🔮 **Future Enhancements**
+
 - Improved handwriting recognition
 - Multilingual OCR and TTS
 - Mathematical symbol recognition
 - Multiple student audio support
 - Smart classroom integration
 
-📬 Contact
+📬 **Contact**
+
 For queries or collaboration:
 
 **GitHub:** [RonitRB](https://github.com/RonitRB)

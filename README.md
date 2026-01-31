@@ -71,7 +71,7 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ## 📐 System Architecture
 
-<img width="1001" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6a0b36e-7f20-4bf5-873b-cd703fdf536a" />
+<img width="101" height="128" alt="image" src="https://github.com/user-attachments/assets/f6a0b36e-7f20-4bf5-873b-cd703fdf536a" />
 
 
 ---

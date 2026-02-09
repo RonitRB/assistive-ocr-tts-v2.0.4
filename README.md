@@ -1,6 +1,6 @@
 # Assistive Technology for Visually Impaired Students (NAIN 2.0)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on developing an **Assistive Technology System for Visually Impaired Students** that enables real-time auditory access to classroom board content. The system captures text written on classroom boards (blackboard, whiteboard, or projected digital content), converts it into readable text using Optical Character Recognition (OCR), and then converts the text into speech using a Text-to-Speech (TTS) engine.
 
@@ -10,7 +10,7 @@ This project is developed under **NAIN 2.0**, a Karnataka State Government–fun
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Visually impaired students often depend on:
 
@@ -22,7 +22,7 @@ These methods do not provide **real-time access** to what teachers write on clas
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** using edge AI.
 
@@ -36,20 +36,20 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-- 📷 Single high-resolution centralized camera
-- ⚡ Real-time OCR processing
-- ✍️ Supports handwritten & digital text
-- 🗣️ Text-to-Speech conversion
-- 🎧 Wireless Bluetooth audio output
-- 🧠 Edge AI processing (offline capable)
-- 🏫 Designed specifically for classroom environments
-- ♿ Non-intrusive assistive learning experience
+- Single high-resolution centralized camera
+- Real-time OCR processing
+- Supports handwritten & digital text
+- Text-to-Speech conversion
+- Wireless Bluetooth audio output
+- Edge AI processing (offline capable)
+- Designed specifically for classroom environments
+- Non-intrusive assistive learning experience
 
 ---
 
-## 🛠️ Hardware Requirements
+## Hardware Requirements
 
 - NVIDIA Jetson Orin Nano Developer Kit
 - High-resolution camera (1080p or higher)
@@ -58,7 +58,7 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ---
 
-## 🧩 Software Requirements
+## Software Requirements
 
 - Python 3.x
 - OpenCV
@@ -69,14 +69,14 @@ The proposed system introduces a **real-time classroom OCR-to-TTS pipeline** usi
 
 ---
 
-## 📐 System Architecture
+## System Architecture
 
 <img width="601" height="828" alt="image" src="https://github.com/user-attachments/assets/f6a0b36e-7f20-4bf5-873b-cd703fdf536a" />
 
 
 ---
 
-## 🚀 Installation & Setup (Basic)
+## Installation & Setup (Basic)
 
 To install and run the project, follow these steps:
 
@@ -99,42 +99,42 @@ To install and run the project, follow these steps:
 
 ---
 
-⚠️ **Note:** Ensure the camera and Bluetooth audio device are properly connected and configured.
+**Note:** Ensure the camera and Bluetooth audio device are properly connected and configured.
 
-🧪 **Current Status**
+**Current Status**
 
-- ✅ OCR-to-TTS pipeline implemented
-- ✅ Digital text detection working
-- 🚧 Handwritten board text optimization ongoing
-- 🚧 Final hardware integration in progress
-- 🚧 Classroom testing phase ongoing
+- OCR-to-TTS pipeline implemented
+- Digital text detection working
+- Handwritten board text optimization ongoing
+- Final hardware integration in progress
+- Classroom testing phase ongoing
 
-📅 **Project Timeline**
+**Project Timeline**
 
 - Development Phase: Completed
 - Final Testing & Hardware Integration: Ongoing
 - Invention Disclosure Submission: 15th February 2026
 
-📜 **Intellectual Property**
+**Intellectual Property**
 
 This project is part of **NAIN 2.0** (New Age Incubation Network), a Government of Karnataka-funded initiative.
 
 Patent filing and IP protection are planned prior to public dissemination.
 
-👥 **Team**
+**Team**
 
 - Ronit Bongale (GitHub: [RonitRB](https://github.com/RonitRB), LinkedIn: [Ronit Bongale](https://www.linkedin.com/in/ronit-bongale/))
 - Krishna Pawar (GitHub: [krishnapawar05](https://github.com/krishnapawar05), LinkedIn: [Krishna Pawar](https://www.linkedin.com/in/krishnapawar05/))
 - Shakuntala Saunshi (GitHub: [Shakuntalas](https://github.com/Shakuntalas), LinkedIn: [Shakuntala Saunshi](https://www.linkedin.com/in/shakuntala-saunshi/))
 
-🤝 **Acknowledgements**
+**Acknowledgements**
 
 - Government of Karnataka – NAIN 2.0
 - Department of Computer Science & Engineering
 - Project mentors and faculty advisors
 - Open-source software contributors
 
-🔮 **Future Enhancements**
+**Future Enhancements**
 
 - Improved handwriting recognition
 - Multilingual OCR and TTS
@@ -142,7 +142,7 @@ Patent filing and IP protection are planned prior to public dissemination.
 - Multiple student audio support
 - Smart classroom integration
 
-📬 **Contact**
+**Contact**
 
 For queries or collaboration:
 
